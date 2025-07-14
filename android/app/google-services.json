@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422849154400",
+    "project_id": "blogrecipe-34851",
+    "storage_bucket": "blogrecipe-34851.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422849154400:android:fb2d3caf4af7318c406205",
+        "android_client_info": {
+          "package_name": "com.example.blogfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7h-0hH2VVdaONqLH4omon5KEPJgN0P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
